@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Blooms Test Suite">
+	
+<listeners>
+	
+	<listener class-name="blooms.TestComponents.Listeners"/>
+	
+</listeners>
+
+  <test thread-count="5" name="Regression Test">
+    <classes>
+      <class name="blooms.Tests.Administration"/>
+      <class name="blooms.Tests.Clinics"/>
+      <class name="blooms.Tests.PatientList"/>
+      <class name="blooms.Tests.Pharmacies"/>
+        
+      
+
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

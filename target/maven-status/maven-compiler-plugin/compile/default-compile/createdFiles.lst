@@ -1,0 +1,11 @@
+blooms/Resources/ExtentReportNG.class
+blooms/Pageobjects/LoginPage.class
+excelDataReader/UserDataReader.class
+excelDataReader/CredentialDataReader.class
+excelDataReader/ClinicDataReader.class
+excelDataReader/PharmacyDataReader.class
+blooms/Pageobjects/AdministrationPage.class
+blooms/Pageobjects/ClinicPage.class
+blooms/Pageobjects/PharmacyPage.class
+blooms/AbstractComponents/AbstractComponents.class
+blooms/Pageobjects/PatientListPage.class

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="21" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-13T11:40:29 IST" name="Blooms Test Suite" finished-at="2024-09-13T11:49:48 IST" duration-ms="559174">
+    <groups>
+    </groups>
+    <test started-at="2024-09-13T11:40:29 IST" name="Regression Test" finished-at="2024-09-13T11:49:48 IST" duration-ms="559174">
+      <class name="blooms.Tests.PatientList">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:blooms.Tests.PatientList@30af5b6b]" started-at="2024-09-13T11:45:59 IST" name="launchApplication" finished-at="2024-09-13T11:46:09 IST" duration-ms="9830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="swapthePages()[pri:0, instance:blooms.Tests.PatientList@30af5b6b]" started-at="2024-09-13T11:46:09 IST" name="swapthePages" finished-at="2024-09-13T11:46:29 IST" duration-ms="20180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swapthePages -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blooms.Tests.PatientList@30af5b6b]" started-at="2024-09-13T11:46:29 IST" name="tearDown" finished-at="2024-09-13T11:46:29 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:blooms.Tests.PatientList@30af5b6b]" started-at="2024-09-13T11:46:29 IST" name="launchApplication" finished-at="2024-09-13T11:46:41 IST" duration-ms="11032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="webReferMyPatient()[pri:0, instance:blooms.Tests.PatientList@30af5b6b]" started-at="2024-09-13T11:46:41 IST" name="webReferMyPatient" finished-at="2024-09-13T11:47:03 IST" duration-ms="22849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webReferMyPatient -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blooms.Tests.PatientList@30af5b6b]" started-at="2024-09-13T11:47:03 IST" name="tearDown" finished-at="2024-09-13T11:47:03 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- blooms.Tests.PatientList -->
+      <class name="blooms.Tests.Administration">
+        <test-method is-config="true" signature="config()[pri:0, instance:blooms.Tests.Administration@7e6ef134]" started-at="2024-09-13T11:40:29 IST" name="config" finished-at="2024-09-13T11:40:29 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:blooms.Tests.Administration@7e6ef134]" started-at="2024-09-13T11:40:29 IST" name="launchApplication" finished-at="2024-09-13T11:40:46 IST" duration-ms="16501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="searchWithInvalidKeyword()[pri:0, instance:blooms.Tests.Administration@7e6ef134]" started-at="2024-09-13T11:40:46 IST" name="searchWithInvalidKeyword" finished-at="2024-09-13T11:40:54 IST" duration-ms="8898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithInvalidKeyword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blooms.Tests.Administration@7e6ef134]" started-at="2024-09-13T11:40:54 IST" name="tearDown" finished-at="2024-09-13T11:40:55 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:blooms.Tests.Administration@7e6ef134]" started-at="2024-09-13T11:40:55 IST" name="launchApplication" finished-at="2024-09-13T11:41:10 IST" duration-ms="15533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="webAddDoctor()[pri:0, instance:blooms.Tests.Administration@7e6ef134]" started-at="2024-09-13T11:41:10 IST" name="webAddDoctor" finished-at="2024-09-13T11:41:30 IST" duration-ms="20141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webAddDoctor -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blooms.Tests.Administration@7e6ef134]" started-at="2024-09-13T11:41:30 IST" name="tearDown" finished-at="2024-09-13T11:41:30 IST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:blooms.Tests.Administration@7e6ef134]" started-at="2024-09-13T11:41:30 IST" name="launchApplication" finished-at="2024-09-13T11:41:45 IST" duration-ms="14707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="webAddNurse()[pri:0, instance:blooms.Tests.Administration@7e6ef134]" started-at="2024-09-13T11:41:45 IST" name="webAddNurse" finished-at="2024-09-13T11:42:07 IST" duration-ms="21857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webAddNurse -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blooms.Tests.Administration@7e6ef134]" started-at="2024-09-13T11:42:07 IST" name="tearDown" finished-at="2024-09-13T11:42:07 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:blooms.Tests.Administration@7e6ef134]" started-at="2024-09-13T11:42:07 IST" name="launchApplication" finished-at="2024-09-13T11:42:22 IST" duration-ms="15216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="webAddPatient()[pri:0, instance:blooms.Tests.Administration@7e6ef134]" started-at="2024-09-13T11:42:22 IST" name="webAddPatient" finished-at="2024-09-13T11:42:39 IST" duration-ms="16776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webAddPatient -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blooms.Tests.Administration@7e6ef134]" started-at="2024-09-13T11:42:39 IST" name="tearDown" finished-at="2024-09-13T11:42:39 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:blooms.Tests.Administration@7e6ef134]" started-at="2024-09-13T11:42:39 IST" name="launchApplication" finished-at="2024-09-13T11:42:52 IST" duration-ms="12967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="webSearchUser()[pri:0, instance:blooms.Tests.Administration@7e6ef134]" started-at="2024-09-13T11:42:52 IST" name="webSearchUser" finished-at="2024-09-13T11:43:02 IST" duration-ms="10100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webSearchUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blooms.Tests.Administration@7e6ef134]" started-at="2024-09-13T11:43:02 IST" name="tearDown" finished-at="2024-09-13T11:43:02 IST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:blooms.Tests.Administration@7e6ef134]" started-at="2024-09-13T11:43:02 IST" name="launchApplication" finished-at="2024-09-13T11:43:11 IST" duration-ms="9172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="webeEditUser()[pri:0, instance:blooms.Tests.Administration@7e6ef134]" started-at="2024-09-13T11:43:11 IST" name="webeEditUser" finished-at="2024-09-13T11:43:25 IST" duration-ms="13301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webeEditUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blooms.Tests.Administration@7e6ef134]" started-at="2024-09-13T11:43:25 IST" name="tearDown" finished-at="2024-09-13T11:43:25 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- blooms.Tests.Administration -->
+      <class name="blooms.Tests.Clinics">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:blooms.Tests.Clinics@8ad6665]" started-at="2024-09-13T11:43:25 IST" name="launchApplication" finished-at="2024-09-13T11:43:35 IST" duration-ms="10525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="webdClinicAddition()[pri:0, instance:blooms.Tests.Clinics@8ad6665]" started-at="2024-09-13T11:43:35 IST" name="webdClinicAddition" finished-at="2024-09-13T11:43:55 IST" duration-ms="19417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webdClinicAddition -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blooms.Tests.Clinics@8ad6665]" started-at="2024-09-13T11:43:55 IST" name="tearDown" finished-at="2024-09-13T11:43:55 IST" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:blooms.Tests.Clinics@8ad6665]" started-at="2024-09-13T11:43:55 IST" name="launchApplication" finished-at="2024-09-13T11:44:05 IST" duration-ms="10089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="webdeleteClinic()[pri:0, instance:blooms.Tests.Clinics@8ad6665]" started-at="2024-09-13T11:44:05 IST" name="webdeleteClinic" finished-at="2024-09-13T11:44:19 IST" duration-ms="14744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webdeleteClinic -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blooms.Tests.Clinics@8ad6665]" started-at="2024-09-13T11:44:19 IST" name="tearDown" finished-at="2024-09-13T11:44:19 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:blooms.Tests.Clinics@8ad6665]" started-at="2024-09-13T11:44:19 IST" name="launchApplication" finished-at="2024-09-13T11:44:30 IST" duration-ms="10734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="webeditClinic()[pri:0, instance:blooms.Tests.Clinics@8ad6665]" started-at="2024-09-13T11:44:30 IST" name="webeditClinic" finished-at="2024-09-13T11:44:49 IST" duration-ms="19214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webeditClinic -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blooms.Tests.Clinics@8ad6665]" started-at="2024-09-13T11:44:49 IST" name="tearDown" finished-at="2024-09-13T11:44:49 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:blooms.Tests.Clinics@8ad6665]" started-at="2024-09-13T11:44:49 IST" name="launchApplication" finished-at="2024-09-13T11:45:02 IST" duration-ms="12681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="webpaginationCheck()[pri:0, instance:blooms.Tests.Clinics@8ad6665]" started-at="2024-09-13T11:45:02 IST" name="webpaginationCheck" finished-at="2024-09-13T11:45:35 IST" duration-ms="32740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webpaginationCheck -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blooms.Tests.Clinics@8ad6665]" started-at="2024-09-13T11:45:35 IST" name="tearDown" finished-at="2024-09-13T11:45:35 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:blooms.Tests.Clinics@8ad6665]" started-at="2024-09-13T11:45:35 IST" name="launchApplication" finished-at="2024-09-13T11:45:45 IST" duration-ms="9946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="websearchClinic()[pri:0, instance:blooms.Tests.Clinics@8ad6665]" started-at="2024-09-13T11:45:45 IST" name="websearchClinic" finished-at="2024-09-13T11:45:59 IST" duration-ms="14445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- websearchClinic -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blooms.Tests.Clinics@8ad6665]" started-at="2024-09-13T11:45:59 IST" name="tearDown" finished-at="2024-09-13T11:45:59 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- blooms.Tests.Clinics -->
+      <class name="blooms.Tests.Pharmacies">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:blooms.Tests.Pharmacies@19835e64]" started-at="2024-09-13T11:47:03 IST" name="launchApplication" finished-at="2024-09-13T11:47:13 IST" duration-ms="9274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="AddPharmacy()[pri:0, instance:blooms.Tests.Pharmacies@19835e64]" started-at="2024-09-13T11:47:13 IST" name="AddPharmacy" finished-at="2024-09-13T11:47:36 IST" duration-ms="23417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddPharmacy -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blooms.Tests.Pharmacies@19835e64]" started-at="2024-09-13T11:47:36 IST" name="tearDown" finished-at="2024-09-13T11:47:36 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:blooms.Tests.Pharmacies@19835e64]" started-at="2024-09-13T11:47:36 IST" name="launchApplication" finished-at="2024-09-13T11:47:48 IST" duration-ms="11643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="existingMailCheck()[pri:0, instance:blooms.Tests.Pharmacies@19835e64]" started-at="2024-09-13T11:47:48 IST" name="existingMailCheck" finished-at="2024-09-13T11:48:13 IST" duration-ms="25295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- existingMailCheck -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blooms.Tests.Pharmacies@19835e64]" started-at="2024-09-13T11:48:13 IST" name="tearDown" finished-at="2024-09-13T11:48:13 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:blooms.Tests.Pharmacies@19835e64]" started-at="2024-09-13T11:48:13 IST" name="launchApplication" finished-at="2024-09-13T11:48:23 IST" duration-ms="9902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="invalidEmailAlert()[pri:0, instance:blooms.Tests.Pharmacies@19835e64]" started-at="2024-09-13T11:48:23 IST" name="invalidEmailAlert" finished-at="2024-09-13T11:48:47 IST" duration-ms="23491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidEmailAlert -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blooms.Tests.Pharmacies@19835e64]" started-at="2024-09-13T11:48:47 IST" name="tearDown" finished-at="2024-09-13T11:48:47 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:blooms.Tests.Pharmacies@19835e64]" started-at="2024-09-13T11:48:47 IST" name="launchApplication" finished-at="2024-09-13T11:49:00 IST" duration-ms="13068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="invalidPhoneAlert()[pri:0, instance:blooms.Tests.Pharmacies@19835e64]" started-at="2024-09-13T11:49:00 IST" name="invalidPhoneAlert" finished-at="2024-09-13T11:49:23 IST" duration-ms="23414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPhoneAlert -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blooms.Tests.Pharmacies@19835e64]" started-at="2024-09-13T11:49:23 IST" name="tearDown" finished-at="2024-09-13T11:49:23 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:blooms.Tests.Pharmacies@19835e64]" started-at="2024-09-13T11:49:23 IST" name="launchApplication" finished-at="2024-09-13T11:49:33 IST" duration-ms="9578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="searchPharmacy()[pri:0, instance:blooms.Tests.Pharmacies@19835e64]" started-at="2024-09-13T11:49:33 IST" name="searchPharmacy" finished-at="2024-09-13T11:49:48 IST" duration-ms="15452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPharmacy -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blooms.Tests.Pharmacies@19835e64]" started-at="2024-09-13T11:49:48 IST" name="tearDown" finished-at="2024-09-13T11:49:48 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- blooms.Tests.Pharmacies -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- Blooms Test Suite -->
+</testng-results>
